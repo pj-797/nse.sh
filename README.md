@@ -10,7 +10,11 @@ Usage (Maximum 3 arguments):
 Create a symbolic link for nse.sh:
 
 1) Save the nse.sh
-2) sudo chmod 777 setTarget.sh
+2) sudo chmod 777 nse.sh
 3) sudo ln -s \<Path of nse.sh> \/usr/local/bin/nse
 
 Example:
+
+https://github.com/pj-797/nse.sh/blob/main/nse%20Screenshot.png
+
+https://github.com/pj-797/nse.sh/blob/main/nse%20Screenshot%202.png
