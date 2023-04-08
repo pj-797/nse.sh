@@ -7,6 +7,9 @@ Usage (Maximum 3 arguments):
 
 	nse <argument1> <argument2> <argument3>
 
+Requires:
+1) Nmap installed.
+
 Create a symbolic link for nse.sh:
 
 1) Save the nse.sh
