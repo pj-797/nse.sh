@@ -1,5 +1,5 @@
 # nse.sh
-Mission: When searching for Nmap Script Engine (.nse) scripts related to service or vectors, trying to view the information may take a lot of steps. Create a script to quicken the process.
+Mission: When searching for Nmap Script Engine (.nse) scripts related to service or vectors, trying to view the information may take a lot of steps. Create a script to experdite the process.
 
 Objective: Search .nse scripts (Nmap Script Engine) related to given arguments.
 
